@@ -9,5 +9,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class ClientDto {
     private String name;
-    private String phoneNumber;
+    private Long phoneNumber;
 }
