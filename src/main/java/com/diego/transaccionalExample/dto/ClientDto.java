@@ -12,4 +12,6 @@ public class ClientDto {
     private Long phoneNumber;
     private String adress;
     private String email;
+    private String officeAddress;
+    private String bankAccount;
 }
