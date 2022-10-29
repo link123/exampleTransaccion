@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class CleinteDto {
-    private  String names;
-    private Long docuemnt;
+public class Client2Dto {
+    private String names;
+    private String docuement;
 }
